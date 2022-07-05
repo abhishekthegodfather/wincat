@@ -1,0 +1,2 @@
+# wcat
+wcat is program which help you to see the content inside the file and also edit the file content in the windows terminal and also help to formatting the file content using the appropriate flags, wcat also enable you to append the content and also copy the content of the file to the another files, These feature is present in the linux/ unix system but no present in the windows. so this program is useful for them, it was written in JavaScript and the environment used is NodeJS.  
